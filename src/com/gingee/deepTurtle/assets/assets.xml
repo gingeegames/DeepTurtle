@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:906eacd5b1fc363c8c9f6693dabc38eb:98a43ffb2faaa28f8daab404db14521e:573c11c7c933506c337cc3fc97e91f97$ -->
+<TextureAtlas imagePath="bgs.png">
+    <SubTexture name="bg" x="1" y="1" width="1200" height="800"/>
+    <SubTexture name="bottom" x="1" y="802" width="1200" height="742"/>
+    <SubTexture name="mid" x="1" y="1545" width="1200" height="378"/>
+    <SubTexture name="pause" x="1202" y="238" width="298" height="236"/>
+    <SubTexture name="play" x="1202" y="1" width="298" height="236"/>
+    <SubTexture name="top" x="1" y="1924" width="1200" height="65"/>
+</TextureAtlas>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6acd32ccddaeedb888cb36bac3430b63:75473e35335244fbedd6e1a708f2727a:54db33ceccc94d21a89dc469bc4c7473$ -->
+<TextureAtlas imagePath="animations.png">
+    <SubTexture name="TurtleShadow.png0001" x="1099" y="1959" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0002" x="1145" y="1912" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0003" x="1145" y="1865" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0004" x="1145" y="1818" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0005" x="1145" y="1771" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0006" x="1145" y="1724" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0007" x="1145" y="1677" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0008" x="1145" y="1630" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0009" x="1145" y="1583" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0010" x="1120" y="415" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0011" x="872" y="1200" width="165" height="46"/>
+    <SubTexture name="TurtleShadow.png0012" x="827" y="722" width="165" height="46"/>
+    <SubTexture name="TurtleSwim0001" x="890" y="1" width="201" height="108" frameX="-2" frameY="0" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0002" x="1092" y="1" width="203" height="98" frameX="0" frameY="-9" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0003" x="672" y="1408" width="203" height="90" frameX="0" frameY="-17" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0004" x="737" y="1720" width="203" height="78" frameX="0" frameY="-29" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0005" x="895" y="1977" width="203" height="70" frameX="0" frameY="-37" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0006" x="758" y="840" width="203" height="64" frameX="0" frameY="-43" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0007" x="1080" y="1465" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0008" x="1078" y="1406" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0009" x="1078" y="1347" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0010" x="1078" y="1288" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0011" x="1078" y="1229" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0012" x="758" y="769" width="201" height="70" frameX="-2" frameY="-50" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0013" x="672" y="1499" width="201" height="82" frameX="-2" frameY="-50" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0014" x="691" y="1977" width="203" height="70" frameX="0" frameY="-50" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0015" x="1076" y="1170" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0016" x="1076" y="1111" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0017" x="1076" y="1052" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0018" x="1076" y="993" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0019" x="1080" y="1465" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0020" x="737" y="1870" width="203" height="64" frameX="0" frameY="-43" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0021" x="737" y="1799" width="203" height="70" frameX="0" frameY="-37" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0022" x="737" y="1641" width="203" height="78" frameX="0" frameY="-29" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0023" x="672" y="1317" width="203" height="90" frameX="0" frameY="-17" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0024" x="670" y="1159" width="201" height="98" frameX="-2" frameY="-9" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0025" x="1080" y="1524" width="201" height="58" frameX="-2" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0026" x="876" y="1424" width="201" height="58" frameX="-2" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0027" x="876" y="1365" width="201" height="58" frameX="-2" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0028" x="1076" y="934" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0029" x="1076" y="875" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0030" x="1076" y="816" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0031" x="1076" y="757" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0032" x="1069" y="698" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0033" x="1069" y="639" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0034" x="1069" y="580" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0035" x="1069" y="521" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0036" x="1069" y="462" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0037" x="941" y="1896" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0038" x="941" y="1837" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0039" x="941" y="1778" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0040" x="941" y="1719" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0041" x="941" y="1660" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0042" x="941" y="1601" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0043" x="876" y="1542" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0044" x="876" y="1483" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0045" x="874" y="1247" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0046" x="872" y="1141" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0047" x="791" y="1082" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0048" x="791" y="1023" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0049" x="791" y="964" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0050" x="791" y="905" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0051" x="487" y="1963" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0052" x="672" y="1582" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0053" x="670" y="1258" width="203" height="58" frameX="0" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0054" x="876" y="1306" width="201" height="58" frameX="-2" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="TurtleSwim0055" x="1080" y="1524" width="201" height="58" frameX="-2" frameY="-49" frameWidth="203" frameHeight="132"/>
+    <SubTexture name="highscore" x="1" y="1" width="479" height="234" frameX="0" frameY="-1" frameWidth="483" frameHeight="240"/>
+    <SubTexture name="highscoretitle" x="691" y="1935" width="242" height="41"/>
+    <SubTexture name="mediator" x="954" y="417" width="165" height="38" frameX="-20" frameY="0" frameWidth="217" frameHeight="38"/>
+    <SubTexture name="pause" x="699" y="1" width="190" height="140" frameX="0" frameY="0" frameWidth="190" frameHeight="150"/>
+    <SubTexture name="play" x="587" y="780" width="170" height="127" frameX="0" frameY="0" frameWidth="170" frameHeight="135"/>
+    <SubTexture name="seaweed0001" x="440" y="236" width="128" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0002" x="134" y="1385" width="130" height="382" frameX="-11" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0003" x="140" y="1002" width="130" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0004" x="1" y="1385" width="132" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0005" x="146" y="619" width="134" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0006" x="1" y="1002" width="138" height="382" frameX="-11" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0007" x="148" y="236" width="140" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0008" x="1" y="619" width="144" height="382" frameX="-11" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0009" x="1" y="236" width="146" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0010" x="289" y="236" width="150" height="372" frameX="-11" frameY="-10" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0011" x="281" y="619" width="154" height="364" frameX="-10" frameY="-18" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0012" x="436" y="619" width="150" height="354" frameX="-10" frameY="-28" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0013" x="523" y="974" width="146" height="344" frameX="-9" frameY="-38" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0014" x="265" y="1385" width="142" height="334" frameX="-9" frameY="-48" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0015" x="533" y="1319" width="138" height="324" frameX="-8" frameY="-58" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0016" x="819" y="142" width="134" height="314" frameX="-7" frameY="-68" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0017" x="954" y="110" width="132" height="306" frameX="-5" frameY="-76" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0018" x="360" y="1720" width="126" height="296" frameX="-6" frameY="-86" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0019" x="612" y="1644" width="124" height="288" frameX="-4" frameY="-94" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0020" x="587" y="497" width="120" height="282" frameX="-4" frameY="-100" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0021" x="126" y="1768" width="116" height="276" frameX="-3" frameY="-106" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0022" x="243" y="1768" width="116" height="270" frameX="-3" frameY="-112" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0023" x="708" y="469" width="118" height="264" frameX="-1" frameY="-118" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0024" x="950" y="457" width="118" height="256" frameX="-2" frameY="-126" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0025" x="670" y="908" width="120" height="250" frameX="-1" frameY="-132" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0026" x="827" y="457" width="122" height="264" frameX="0" frameY="-118" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0027" x="1" y="1768" width="124" height="278" frameX="0" frameY="-104" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0028" x="487" y="1672" width="124" height="290" frameX="-2" frameY="-92" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0029" x="1087" y="110" width="124" height="304" frameX="-4" frameY="-78" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0030" x="694" y="152" width="124" height="316" frameX="-6" frameY="-66" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0031" x="408" y="1341" width="124" height="330" frameX="-8" frameY="-52" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0032" x="569" y="152" width="124" height="344" frameX="-10" frameY="-38" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0033" x="398" y="984" width="124" height="356" frameX="-12" frameY="-26" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0034" x="271" y="1002" width="126" height="370" frameX="-12" frameY="-12" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="seaweed0035" x="440" y="236" width="128" height="382" frameX="-12" frameY="0" frameWidth="164" frameHeight="382"/>
+    <SubTexture name="sound0001" x="1212" y="100" width="90" height="81"/>
+    <SubTexture name="sound0002" x="481" y="152" width="48" height="81" frameX="0" frameY="0" frameWidth="90" frameHeight="81"/>
+    <SubTexture name="top" x="481" y="1" width="217" height="150"/>
+</TextureAtlas>
