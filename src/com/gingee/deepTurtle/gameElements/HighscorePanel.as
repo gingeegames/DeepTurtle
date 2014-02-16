@@ -34,15 +34,15 @@ package com.gingee.deepTurtle.gameElements
 			// set locations
 			_title.y = ScalingFactors.getScaleNum(60);
 			_score.y = _title.getBounds(this).bottom + ScalingFactors.getScaleNum(10);
-			_score.x = ((_bg.width - _score.width)/2);
-			_title.x = ((_bg.width - _title.width)/2);
+			_score.x = ((_bg.width - _score.width)>>1);
+			_title.x = ((_bg.width - _title.width)>>1);
 		}
 		
 		public function set score(val:Number):void
 		{
 			// chnage highscore value and reposition horizontally
 			_score.text = val.toString();
-			_score.x = ((_bg.width - _score.width)/2);
+			_score.x = ((_bg.width - _score.width)>>1);
 		}
 	}
 }

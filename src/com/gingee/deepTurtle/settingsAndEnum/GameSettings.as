@@ -11,7 +11,7 @@ package com.gingee.deepTurtle.settingsAndEnum
 		private static var SCORE:Number = 0; // current score
 		private static var _scoreUpdater:Function; //  a reference to score updating function
 		
-		// returns true if current score is the highest score
+		// saves if it is curerntly highest score
 		public static function storeHighScore():void
 		{
 			 if (HIGH_SCORE < SCORE) // if current score is bigger, update high score
@@ -49,8 +49,6 @@ package com.gingee.deepTurtle.settingsAndEnum
 		
 		// ................. TURTLE SETTINGS  ......................................	
 		
-		public static const MAX_DEG:Number = 10;
-		public static const DEGREE_DECAY:Number = 1.5;
 		public static var TURTLE_PADDING:Number = 30;
 		
 		// ................. OBSTACLES SETTINGS ....................................

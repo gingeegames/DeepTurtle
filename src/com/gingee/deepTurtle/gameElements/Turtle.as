@@ -9,7 +9,6 @@ package com.gingee.deepTurtle.gameElements
 	import com.gingeegames.gamologee.guiModule.settings.GuiModuleSettings;
 	import com.gingeegames.gamologee.guiModule.utils.ScalingFactors;
 	import com.gingeegames.interfaces.IAdvanceable;
-	import com.gingeegames.sidescroller.Background;
 	
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
@@ -21,11 +20,10 @@ package com.gingee.deepTurtle.gameElements
 		private var _animation:GuiAnimationSheet; // turtle animation
 		private var _animLayer:Sprite; // turtle animation layer
 		private var _context:DisplayObject; // container in which this will be added
-		private var _parallax:Background; // game's parallax bg reference
 		private var _disableSwim:Boolean; // a boolean that enables swimming to make sure turtle is within screen
 		private var _strike:Function; // a function to be invoked once hit
 		
-		public function Turtle(context:DisplayObject, parallax:Background, strike:Function)
+		public function Turtle(context:DisplayObject, strike:Function)
 		{
 			super(ElementIDS.TURTLE_ID); // set turtle's ID
 			
@@ -34,7 +32,6 @@ package com.gingee.deepTurtle.gameElements
 			_disableSwim = false; // enable swimming
 			
 			// pass context and parallax bg to class vars
-			_parallax = parallax;
 			_context = context;
 			
 			// create frame labels
@@ -44,7 +41,6 @@ package com.gingee.deepTurtle.gameElements
 			
 			// create turtle animation
 			_animation = new GuiAnimationSheet('TurtleSwim', new <String>[EmbeddedAssets.ANIMATIONS_ATLAS], 'turtleAnimation', 1, labels);
-			_animation.smoothing = true;
 			
 			// put turtle animation inside a container and set the origin to its center so it can rotate about its center point
 			_animLayer.addChild(_animation);
@@ -102,7 +98,7 @@ package com.gingee.deepTurtle.gameElements
 		
 		public function reset():void
 		{
-			_animLayer.rotation = 0;
+			
 		}
 		
 		public function stopAnimation():void

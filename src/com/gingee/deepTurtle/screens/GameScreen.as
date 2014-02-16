@@ -16,11 +16,13 @@ package com.gingee.deepTurtle.screens
 	import com.gingeegames.gamologee.guiModule.gui.alignment.enum.GuiElementAlignmentMethods;
 	import com.gingeegames.gamologee.guiModule.gui.buttons.GuiImageButton;
 	import com.gingeegames.gamologee.guiModule.gui.buttons.GuiOnOffButton;
+	import com.gingeegames.gamologee.guiModule.gui.scrollers.scroller.GuiScroller;
 	import com.gingeegames.gamologee.guiModule.gui.stageEvents.StageEventsManager;
 	import com.gingeegames.gamologee.guiModule.gui.text.GuiTextQuick;
 	import com.gingeegames.gamologee.guiModule.screens.GuiBasicScreen;
 	import com.gingeegames.gamologee.guiModule.screens.interfaces.ITransition;
 	import com.gingeegames.gamologee.guiModule.settings.GuiModuleSettings;
+	import com.gingeegames.gamologee.guiModule.stage3D.scrollers.scroller.StrScroller;
 	import com.gingeegames.gamologee.guiModule.utils.ScalingFactors;
 	import com.gingeegames.sidescroller.Background;
 	
@@ -80,7 +82,7 @@ package com.gingee.deepTurtle.screens
 			_parallax.build();
 			
 			// ...................... Create turtle ..........................................................
-			_turtle = new Turtle(this, _parallax, strike);
+			_turtle = new Turtle(this, strike);
 			
 			// ...................... Create obstacle manager ................................................
 			_obstacles = new ObstacleManager(strike);
@@ -176,6 +178,8 @@ package com.gingee.deepTurtle.screens
 		
 		private function showPlay():void
 		{
+			const s:GuiScroller = new GuiScroller(100, 100);
+			const str:StrScroller = new StrScroller(100, 100);
 			// show play button
 			_buttonsLayer.removeChildren();
 			_buttonsLayer.addChild(_play);

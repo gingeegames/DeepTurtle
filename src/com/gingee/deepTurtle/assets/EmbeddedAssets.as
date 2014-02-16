@@ -35,14 +35,17 @@ package com.gingee.deepTurtle.assets
 		public static const ASSETS_ATLAS:String = 'assets';
 		public static const ANIMATIONS_ATLAS:String = 'animations';
 		
+		// ............................... SOUND MANAGER .................................................
+		
 		private static const FLAP1:String = 'FLAP1';
 		private static const FLAP2:String = 'FLAP2';
 		private static const FLAP3:String = 'FLAP3';
 		private static const SUCCESS:String = 'SUCCESS';
 		private static const FAIL:String = 'FAIL';
+		public static const SONG:String = 'SONG';
+		
 		private static var FLAPPING_ARRAY:Array;
 		
-		public static const SONG:String = 'SONG';
 		public static var MUTED:Boolean = false;
 		
 		public static function playRandomFlappingSound():void
@@ -60,6 +63,7 @@ package com.gingee.deepTurtle.assets
 		{
 			MUTED = false; // set mute flag
 			playSong(); // play song
+			DataStorage.instance.save(ElementIDS.MUTE_MUSIC, MUTED); // save to local storage
 		}
 		
 		public static function playSong():void
@@ -67,7 +71,6 @@ package com.gingee.deepTurtle.assets
 			if(MUTED) // check if muted
 				return;
 			
-			DataStorage.instance.save(ElementIDS.MUTE_MUSIC, MUTED);
 			GamologeeSoundsEngine.play(SONG, 1, 0, -1);
 		}
 		
